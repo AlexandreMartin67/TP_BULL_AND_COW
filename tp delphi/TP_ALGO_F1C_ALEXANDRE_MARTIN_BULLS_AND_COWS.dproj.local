@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/15 15:27:48.000.395,=C:\Users\Admin123\Documents\Embarcadero\Studio\Projets\Unit6.pas</Transaction>
+    <Transaction>2017/05/15 16:57:51.000.634,C:\Users\Admin123\Documents\Embarcadero\Studio\Projets\Unit6.dfm=C:\Users\Admin123\Desktop\tp delphi\bulls_and_cows.dfm</Transaction>
+    <Transaction>2017/05/15 16:57:51.000.634,C:\Users\Admin123\Documents\Embarcadero\Studio\Projets\Unit6.pas=C:\Users\Admin123\Desktop\tp delphi\bulls_and_cows.pas</Transaction>
+    <Transaction>2017/05/15 17:00:31.000.987,C:\Users\Admin123\Documents\Embarcadero\Studio\Projets\Project5.dproj=C:\Users\Admin123\Desktop\tp delphi\Project5.dproj</Transaction>
+    <Transaction>2017/05/26 14:02:06.000.869,C:\Users\Admin123\Desktop\tp delphi\Project5.dproj=C:\Users\Admin123\Desktop\tp delphi\TP_ALGO_F1C_ALEXANDRE_MARTIN_BULLS_AND_COWS.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
